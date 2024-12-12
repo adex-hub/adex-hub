@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am a young software engineer who is currently FE focused and I am very eager to learn (quite fast at learning too 😉). Later this year, I am looking to explore Java & its framework Springboot.
+I am a young software engineer who is currently FE focused and I am very eager to learn.
 
-- 🔭 I’m currently working on an Educational web app to aid students.
-- 🌱 I’m currently learning NEXT.js
-- ⚡ Fun fact: I enjoy applying my learnings to solve problems.
+- 🔭 I’m currently working on the frontend of a Journal Management System commisioned by my university.
+- 🌱 I work with NEXT.js to build scalable websites and applications
+- 📖 A final year student of Computer Engineering at Bells University of Technology.
+- 🏗️ Building an AI-powered product that would revolutionize learning experiences
+- ⚡ Fun fact: I enjoy applying what I learn to solve problems.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/adeolabadero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeola-badero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ade_the_great) 
