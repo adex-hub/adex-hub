@@ -1,4 +1,4 @@
-### Hey, there
+### Hey, there!
 
 <!--
 **adex-hub/adex-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 💫 About Me:
 I am Adeola, a freelance Frontend Engineer and designer who is currently applying his skills to solve problems and help businesses.
 
 - 🔭 I’m currently working on the frontend of a Journal Management System commisioned by my university.
