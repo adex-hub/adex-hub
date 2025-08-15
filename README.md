@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Adeola, a freelance Frontend Engineer and designer who is currently applying his skills to solve problems and help businesses.
 
-- 🔭 I’m currently working on an AI-powered product that is already revolutionizing learning experiences (quiklearn.app)
+- 🔭 I’m currently working on an AI-powered product that is already revolutionizing learning experiences → [Quiklearn](https://quiklearn.app)
 - 🌱 I work with NEXT.js to build scalable websites and applications
 - 📖 A graduand student of Computer Engineering at Bells University of Technology.
 - ⚡ Fun fact: I enjoy applying what I learn to solve problems.
